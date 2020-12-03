@@ -9,7 +9,7 @@ class TestSecondPuzzle(unittest.TestCase):
             # A tuple of (dataset, solution)
             ([1721, 979, 366, 299, 675, 1456], 241861950),
             ([2020, 0, 0], 0),
-            ([2030, 5, 1682, -15, 14], -50750)
+            ([2030, 5, 1682, -15, 14], -152250)
         )
 
         for dataset, solution in datasets_with_solutions:
