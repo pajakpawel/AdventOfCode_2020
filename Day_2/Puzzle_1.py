@@ -21,3 +21,12 @@ def count_valid_passwords(passwords_list: list) -> int:
             counter += 1
 
     return counter
+
+
+if __name__ == '__main__':
+    puzzle_dataset = []
+    with open("puzzle_input.txt") as puzzle_input:
+        for line in puzzle_input.readlines():
+            puzzle_dataset.append(line)
+
+    print("Solution for dataset included in './puzzle_input.txt' is equal to ", count_valid_passwords(puzzle_dataset))
