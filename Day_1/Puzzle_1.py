@@ -1,4 +1,8 @@
-def expense_report_fix(dataset: list) -> int:
+from typing import List
+
+
+def expense_report_fix(dataset: List[str]) -> int:
+    dataset = list(map(int, dataset))
     for number_1_index, number_1 in enumerate(dataset):
         for number_2 in dataset[number_1_index + 1:]:
             if number_1 + number_2 == 2020:
@@ -6,9 +10,6 @@ def expense_report_fix(dataset: list) -> int:
 
 
 if __name__ == '__main__':
-    puzzle_dataset = []
-    with open("puzzle_input.txt") as puzzle_input:
-        for number in puzzle_input.readlines():
-            puzzle_dataset.append(int(number))
+    from Input_handler import handle_input_for_given_function
 
-    print("Solution for dataset included in './puzzle_input.txt' is equal to ", expense_report_fix(puzzle_dataset))
+    handle_input_for_given_function('puzzle_input.txt', expense_report_fix)
