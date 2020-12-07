@@ -15,3 +15,10 @@ This event is organized every year and starts on the 1st of December.
 
 If you would like to learn more about the event, 
 please visit [Advent of Code about](https://adventofcode.com/2020/about) page.
+
+## Progress
+
+|                                              Day                                              | Puzzle 1| Puzzle 2|
+|-----------------------------------------------------------------------------------------------|:-------:|:-------:|
+|[Day 1: Report Repair](https://github.com/pajakpawel/AdventOfCode_2020/tree/master/Day_1)      |  :star: |  :star: |
+|[Day 2: Password Philosophy](https://github.com/pajakpawel/AdventOfCode_2020/tree/master/Day_2)|  :star: |  :star: |
