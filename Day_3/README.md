@@ -86,3 +86,5 @@ In the above example, these slopes would find `2`, `7`, `3`, `4`, and `2` tree(s
 these produce the answer **`336`**.
 
 **What do you get if you multiply together the number of trees encountered on each of the listed slopes?**
+
+**Answer for my puzzle input is `2122848000`**
