@@ -57,3 +57,5 @@ According to the above rules, your improved system would report **`2`** valid pa
 
 Count the number of **valid** passports - those that have all required fields. 
 Treat `cid` as optional. **In your batch file, how many passports are valid?**
+
+**Answer for my puzzle input is `235`**
