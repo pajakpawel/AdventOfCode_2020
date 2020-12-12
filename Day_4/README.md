@@ -133,3 +133,5 @@ Here are some valid passports:
     
 Count the number of **valid** passports - those that have all required fields **and valid values**. 
 Continue to treat `cid` as optional. **In your batch file, how many passports are valid?**
+
+**Answer for my puzzle input is `194`**
