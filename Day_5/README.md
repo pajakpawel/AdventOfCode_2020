@@ -64,3 +64,5 @@ so they'll be missing from your list as well.
 Your seat wasn't at the very front or back, though; the seats with IDs +1 and -1 from yours will be in your list.
 
 **What is the ID of your seat?**
+
+**Answer for my puzzle input is `559`**
