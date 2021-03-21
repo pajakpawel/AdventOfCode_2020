@@ -8,7 +8,7 @@ class TestFirstPuzzle(unittest.TestCase):
         self.assertEqual(6, Puzzle_1.count_positive_answers(group_answers))
 
     def test_count_positive_answers_sum(self):
-        self.assertEqual(11, Puzzle_1.count_positive_answers_sum('puzzle_1_test_input.txt'))
+        self.assertEqual(11, Puzzle_1.count_positive_answers_sum('puzzles_test_input.txt'))
 
 
 if __name__ == '__main__':
