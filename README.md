@@ -25,3 +25,4 @@ please visit [Advent of Code about](https://adventofcode.com/2020/about) page.
 |[Day 3: Toboggan Trajectory](https://github.com/pajakpawel/AdventOfCode_2020/tree/master/Day_3)|  :star: |  :star: |
 |[Day 4: Passport Processing](https://github.com/pajakpawel/AdventOfCode_2020/tree/master/Day_4)|  :star: |  :star: |
 |[Day 5: Binary Boarding](https://github.com/pajakpawel/AdventOfCode_2020/tree/master/Day_5)|  :star: |  :star: |
+|[Day 6: Custom Customs](https://github.com/pajakpawel/AdventOfCode_2020/tree/master/Day_6)|  :star: |  :star: |
